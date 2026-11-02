@@ -1,0 +1,9 @@
+streamlit
+pypdf[crypto]
+python-docx
+python-dotenv
+spacy
+sentence-transformers
+scikit-learn
+reportlab
+
