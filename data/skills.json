@@ -1,2 +1,40 @@
-[]
+{
+  "version": 1,
+  "skills": [
+    {"name": "Python", "aliases": ["Python 3"], "category": "Ngôn ngữ lập trình"},
+    {"name": "Java", "aliases": [], "category": "Ngôn ngữ lập trình"},
+    {"name": "JavaScript", "aliases": ["JS"], "category": "Ngôn ngữ lập trình"},
+    {"name": "TypeScript", "aliases": ["TS"], "category": "Ngôn ngữ lập trình"},
+    {"name": "C++", "aliases": ["CPP"], "category": "Ngôn ngữ lập trình"},
+    {"name": "C#", "aliases": ["C Sharp"], "category": "Ngôn ngữ lập trình"},
+    {"name": "SQL", "aliases": [], "category": "Cơ sở dữ liệu"},
+    {"name": "PostgreSQL", "aliases": ["Postgres"], "category": "Cơ sở dữ liệu"},
+    {"name": "MySQL", "aliases": [], "category": "Cơ sở dữ liệu"},
+    {"name": "MongoDB", "aliases": [], "category": "Cơ sở dữ liệu"},
+    {"name": "React", "aliases": ["React.js"], "category": "Frontend"},
+    {"name": "Angular", "aliases": [], "category": "Frontend"},
+    {"name": "Vue.js", "aliases": ["Vue"], "category": "Frontend"},
+    {"name": "Node.js", "aliases": ["NodeJS"], "category": "Backend"},
+    {"name": "Django", "aliases": [], "category": "Backend"},
+    {"name": "FastAPI", "aliases": [], "category": "Backend"},
+    {"name": "Flask", "aliases": [], "category": "Backend"},
+    {"name": "REST API", "aliases": ["RESTful API"], "category": "Backend"},
+    {"name": "Docker", "aliases": [], "category": "DevOps"},
+    {"name": "Kubernetes", "aliases": ["K8s"], "category": "DevOps"},
+    {"name": "AWS", "aliases": ["Amazon Web Services"], "category": "Cloud"},
+    {"name": "Azure", "aliases": ["Microsoft Azure"], "category": "Cloud"},
+    {"name": "GCP", "aliases": ["Google Cloud Platform"], "category": "Cloud"},
+    {"name": "Git", "aliases": [], "category": "Công cụ"},
+    {"name": "Machine Learning", "aliases": ["ML"], "category": "AI và dữ liệu"},
+    {"name": "Deep Learning", "aliases": ["DL"], "category": "AI và dữ liệu"},
+    {"name": "Natural Language Processing", "aliases": ["NLP"], "category": "AI và dữ liệu"},
+    {"name": "TensorFlow", "aliases": [], "category": "AI và dữ liệu"},
+    {"name": "PyTorch", "aliases": [], "category": "AI và dữ liệu"},
+    {"name": "Data Analysis", "aliases": ["Data Analytics"], "category": "AI và dữ liệu"},
+    {"name": "Communication", "aliases": ["Communication skills"], "category": "Kỹ năng mềm"},
+    {"name": "Problem solving", "aliases": ["Problem-solving"], "category": "Kỹ năng mềm"},
+    {"name": "Teamwork", "aliases": ["Team work"], "category": "Kỹ năng mềm"},
+    { "name": "Spring Boot","aliases": ["Spring"],"category": "Backend"}
+  ]
+}
 
